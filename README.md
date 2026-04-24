@@ -7,4 +7,4 @@ Ce repository contient les éléments utiles à l'implémentation de services de
 * un logigramme permettant de décrire les process d'activation dans le contexte Mégalis
 
   
-![Schéma d'activation](process-activation.png)
+![Schéma d'activation](process-activation.drawio.png)
