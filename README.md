@@ -1,6 +1,6 @@
 # Suite-territoriale
 
-Ce repository contient les éléments utiles à l'implémentation de services de la suite territoriale au sein de l'uinfrastructure de Mégalis Bretagne
+Ce repository contient les éléments utiles à l'implémentation de services de la suite territoriale au sein de l'infrastructure de Mégalis Bretagne
 
 ## Documentation
 
