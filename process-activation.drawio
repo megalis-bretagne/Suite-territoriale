@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="AebJNm303btfSRaOTnHU">
-    <mxGraphModel dx="4970" dy="4468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1656" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="Ol789kwo79sn6iPMgxS4-14" parent="8zrGvl5tmGjVZoVHkP4a-106" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;" value="Collectivité : l&#39;administrateur doit se connecter à Messages pour récupérer les infos sur le paramétrage serveur MX/configuration DNS et les donner à son prestataire (DNS)" vertex="1">
           <mxGeometry height="90" width="310" x="476.09" y="1990" as="geometry" />
         </mxCell>
-        <mxCell id="Ol789kwo79sn6iPMgxS4-16" parent="8zrGvl5tmGjVZoVHkP4a-106" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=default;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="Doc ANCT ou tutoriel à constituer ?" vertex="1">
+        <mxCell id="Ol789kwo79sn6iPMgxS4-16" parent="8zrGvl5tmGjVZoVHkP4a-106" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FF99CC;fontColor=default;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="Doc ANCT ou tutoriel à constituer ?" vertex="1">
           <mxGeometry height="60" width="190" x="263" y="2005" as="geometry" />
         </mxCell>
         <mxCell id="Ol789kwo79sn6iPMgxS4-31" edge="1" parent="8zrGvl5tmGjVZoVHkP4a-106" source="Ol789kwo79sn6iPMgxS4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" target="Ol789kwo79sn6iPMgxS4-21">
