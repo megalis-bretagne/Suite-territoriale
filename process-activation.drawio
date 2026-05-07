@@ -136,7 +136,7 @@
           <mxGeometry height="80" width="180" x="756" y="780" as="geometry" />
         </mxCell>
         <mxCell id="E3umqVkQMGL9Jj7EXo5r-1" parent="GE0dJ7JX8qithTQ4ejlf-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;" value="La collectivité utilise-t-elle d&#39;autres services Proconnect&amp;nbsp;?&lt;div&gt;Si oui lesquels ? Et qui ? (est-ce que ces personnes ont un compte sur le socle Mégalis&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="240" x="570" y="270" as="geometry" />
+          <mxGeometry height="150" width="270" x="570" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Q9SF2IiPRYba7rYAJ05G-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;fontColor=default;">
           <mxGeometry relative="1" as="geometry">
